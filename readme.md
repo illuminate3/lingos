@@ -1,6 +1,11 @@
 Lingos
 =======
 
+# Depreciated
+Use my new package called Kotoba for Laravel 5.
+I will no longer support this.
+
+
 # About
 Baseline language files for Laravel4.
 
@@ -74,12 +79,3 @@ I separated these since you might want to have them slightly different, like cap
 [brunogaspar's laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit "Brunogaspar's laravel4-starter-kit")
 
 [illuminate3's Vedette](https://github.com/illuminate3/vedettte "illuminate3's Vedette")
-
-
-## Future
-* Add Languages
-* Consider moving towards DB installation or create separate package.
-* Think of sane directory layout in case the files become too many.
-* Find a way to version control Caouec's package
-* Consolidate singular and plurals
-* Look into integrating the base Laravel language files
